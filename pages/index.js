@@ -115,18 +115,28 @@ export default function Home() {
               </p>
               <p className="text-xl text-white my-6  montserrat"> At 100% sellout, we pledge to donate <span className="font-bold"> 50 ETH </span> (or it's USD equivalent) from primary sales.
               </p> 
+			  <p className="text-xl text-white my-6  montserrat"> Moreover,we are going to use the main part of our primary sales to develop more project that will grant <span className="font-bold"> benefits </span> to the members of our community : a goodies shop with part of the sales being versed to our community, a second NFT project with free drop for our community and a special video game ! 
+              </p> 
 			  
 			  
 			<h2 className="text-6xl text-center DicksFont text-blau my-4">ROADMAP</h2>
                 <img src="/images/Roadmap.png"/>
+				 <h2 className="text-7xl text-center DicksFont text-blau my-4">ETH Donations :</h2>
               <ul className="">
                 <li className="text-xl text-white my-6  montserrat"><span className="font-bold"> 10 ETH donations: </span> The first donation will be made to <a target="_blank" href="https://www.la-spa.fr/" className="underline text-black font-bold">La SPA</a>, the french organization that protect and helps <span className="font-bold">animals</span>. Yes, Big Gus D origins lie in France; and as animals' lovers this choice seems natural to us !</li>
                 <li className="text-xl text-white my-6  montserrat"><span className="font-bold"> 10 ETH donations: </span> The second donation will be made to <a target="_blank" href="https://www.cancer.org/" className="underline text-black font-bold">American Cancer Society</a>, which are on a mission to free the world from <span className="font-bold">cancer</span>. You wouldn't like to have your Big Gus D be in danger because of <span className="font-bold">Testicular Cancer</span>, so let's fight it together !</li>
-				<li className="text-xl text-white my-6  montserrat"><span className="font-bold"> 30 ETH donations: </span> The remaining ETH will be splitted among several differents organization (environment, animals, heatlh, etc) <span className="font-bold">and</span> our community (through different giveaways).  </li>
+				<li className="text-xl text-white my-6  montserrat"><span className="font-bold"> 15 ETH donations: </span> Once we've reached 75% of the sold, 15 ETH will be given back to member of <span className="font-bold">our community (through different giveaways). </span>  </li>
 
               </ul>
+			  <h2 className="text-7xl text-center DicksFont text-blau my-4">100% Sellout projects :</h2>
+				<p className="text-xl text-white my-6  montserrat"> If we reach the <span className="font-bold"> 100% sellout </span>, we will develop 3 projects were members of our community will have some privileges </p>
+				<ul className="">
+					<li className="text-xl text-white my-6  montserrat"><span className="font-bold"> Second NFT Collection : </span> We will create a second NFT collection, linked to Big Gus D. Members of our community will have access to<span className="font-bold"> free drop</span> of this second collection. </li>
+					<li className="text-xl text-white my-6  montserrat"><span className="font-bold"> Merch Shop : </span> We will create an online Big Gus D Merch Shop with goodies and clothes. Members of our community will get  <span className="font-bold">a part of each sales</span> on the shop. </li>
+					<li className="text-xl text-white my-6  montserrat"><span className="font-bold"> Big Gus D Game: </span> We will develop a video game where users will be able to compete in different kind of battle to earn money. Members of our community will obtains <span className="font-bold"> free tokens </span> to play on this game.</li>
 
-				<p className="text-xl text-white my-6  montserrat"> And we have way more ideas if we reach the <span className="font-bold"> 100% sellout </span>, likes Big Gus D Goodies and more NFT projects ! </p>
+				  </ul>
+				
 
               </div>
               
